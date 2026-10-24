@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xtivix-sink-langfuse",
+  "packageVersion": "1.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xtivix-sink-langfuse",
+  "usageRepository": "https://github.com/x12i-sdk/xtivix-sink-langfuse",
+  "sourceRepository": "https://github.com/x12i/xtivix",
+  "sourceCommit": "a87970694c9ee67967a2c51cfdbad8d39130db7a",
+  "sourcePackageDirectory": "packages/sinks/langfuse",
+  "example": {
+    "title": "Deliver an OTLP span to a local HTTP fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:13:51.165238+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "a0c6e35c155a3063f41cd14adbce0e07a998eb5cd6a26251ee644cdd83962457",
+    "manifestSha256": "1560a7b7620c9a4b8eeeb8ad695020c02bde559c79c14247c255091f46047e72"
+  },
+  "validationFiles": {
+    "src/index.mjs": "a0c6e35c155a3063f41cd14adbce0e07a998eb5cd6a26251ee644cdd83962457"
+  }
+}
